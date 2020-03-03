@@ -8,7 +8,7 @@ In this assignment you are to produce a detailed outline of the third chapter of
 
 A. League of Legends (maybe)
   1. An in depth look at how league is played properly
-  2. Where we get stats from
+  2. Where we get stats from      ||| statistic meaning |||
   3. how we can use these stats to help players improve
 B. Use Streamlit to create the starting web page
   1. What is it
